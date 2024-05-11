@@ -1,0 +1,113 @@
+[
+    {
+      "id": 5928101,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "loremLoremlorem",
+      "location": "Moew Island",
+      "date": "May 4, 2025",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Kat Lydee"
+    },
+    {
+      "id": 5928102,
+      "category": "animal welfare",
+      "title": "Dog Adoption Event",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "location": "Woof Park",
+      "date": "June 15, 2025",
+      "time": "10:00",
+      "petsAllowed": true,
+      "organizer": "Paw Friends Association"
+    },
+    {
+      "id": 5928103,
+      "category": "community",
+      "title": "Community Cleanup Day",
+      "description": "Join us to clean up our neighborhood and make it a better place!",
+      "location": "City Center",
+      "date": "July 20, 2025",
+      "time": "09:00",
+      "petsAllowed": false,
+      "organizer": "Green Earth Initiative"
+    },
+    {
+      "id": 5928104,
+      "category": "education",
+      "title": "Coding Workshop for Beginners",
+      "description": "Learn the basics of coding in a fun and interactive workshop!",
+      "location": "Tech Hub",
+      "date": "August 5, 2025",
+      "time": "14:00",
+      "petsAllowed": false,
+      "organizer": "Code Masters Academy"
+    },
+    {
+      "id": 5928105,
+      "category": "music",
+      "title": "Summer Music Festival",
+      "description": "Experience live music performances by local artists!",
+      "location": "Harmony Park",
+      "date": "August 28, 2025",
+      "time": "17:00",
+      "petsAllowed": true,
+      "organizer": "Melody Productions"
+    },
+    {
+      "id": 5928106,
+      "category": "sports",
+      "title": "Soccer Tournament",
+      "description": "Compete in a friendly soccer tournament with teams from across the city!",
+      "location": "City Stadium",
+      "date": "September 10, 2025",
+      "time": "13:30",
+      "petsAllowed": false,
+      "organizer": "City Sports Club"
+    },
+    {
+      "id": 5928107,
+      "category": "food",
+      "title": "Food Truck Festival",
+      "description": "Indulge in a variety of delicious food from local food trucks!",
+      "location": "Foodie Plaza",
+      "date": "October 3, 2025",
+      "time": "11:00",
+      "petsAllowed": true,
+      "organizer": "Taste Explorers"
+    },
+    {
+      "id": 5928108,
+      "category": "arts",
+      "title": "Art Exhibition Opening Night",
+      "description": "Discover stunning artworks by talented local artists!",
+      "location": "Art Gallery",
+      "date": "November 8, 2025",
+      "time": "18:30",
+      "petsAllowed": false,
+      "organizer": "Creative Minds Society"
+    },
+    {
+      "id": 5928109,
+      "category": "health",
+      "title": "Fitness Bootcamp",
+      "description": "Get fit and healthy with our intensive fitness bootcamp!",
+      "location": "Fit Zone",
+      "date": "December 12, 2025",
+      "time": "07:00",
+      "petsAllowed": false,
+      "organizer": "Fit Life Gym"
+    },
+    {
+      "id": 5928110,
+      "category": "technology",
+      "title": "Tech Conference",
+      "description": "Stay updated on the latest trends and innovations in the tech industry!",
+      "location": "Innovation Center",
+      "date": "January 20, 2026",
+      "time": "09:30",
+      "petsAllowed": false,
+      "organizer": "Tech Connect"
+    }
+  ]
+  
